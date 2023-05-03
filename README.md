@@ -1,1 +1,1 @@
-# TNMP
+# Tensor Network Message Passing
