@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+authors:
+  - family-names: Wang
+    given-names: Yijia
+title: "TNMP"
+version: 1.0.0
+date-released: 2023
