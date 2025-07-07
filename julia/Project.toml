@@ -1,0 +1,8 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenericMessagePassing = "09522ef3-fe1e-4698-a056-61d75781c616"
+GraphIO = "aa1b3936-2fda-51b9-ab35-c553d3a640a2"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
+TensorInference = "c2297e78-99bd-40ad-871d-f50e56b81012"
